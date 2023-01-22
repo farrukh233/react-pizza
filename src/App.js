@@ -8,6 +8,7 @@ import { useState } from "react";
 
 function App() {
   const [searchValue, setSearchValue] = useState("");
+
   return (
     <div className='wrapper'>
       <Header searchValue={searchValue} setSearchValue={setSearchValue} />
