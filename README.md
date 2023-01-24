@@ -4,7 +4,7 @@
 * Vite
 * React
 * Redux Toolkit
-* Sass
+* Scss
 
 ## На текущий момент реализовано:
 
